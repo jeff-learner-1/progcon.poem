@@ -1,9 +1,0 @@
-rainbow colors:
-red
-orange
-yellow
-green
-blue
-indigo
-violet
-these are the color of rainbow
